@@ -68,6 +68,7 @@ const styles = StyleSheet.create({
   textInput: Platform.select({
     ios: {},
     android: {
+      color: "white",
       marginLeft: -4,
       paddingLeft: 4
     }

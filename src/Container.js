@@ -140,7 +140,7 @@ const styles = StyleSheet.create({
       borderRadius: 3,
       padding: 16,
       margin: 16,
-      backgroundColor: "white",
+      backgroundColor: "#0a203e",
       overflow: "hidden",
       elevation: 4,
       minWidth: 300
@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
       borderRadius: 3,
       padding: 16,
       margin: 16,
-      backgroundColor: "white",
+      backgroundColor: "#0a203e",
       overflow: "hidden",
       elevation: 4,
       minWidth: 300

@@ -30,6 +30,7 @@ const styles = StyleSheet.create({
       fontWeight: "600"
     },
     android: {
+      color: "white",
       fontWeight: "500",
       fontSize: 18
     },
