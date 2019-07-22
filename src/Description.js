@@ -30,13 +30,13 @@ const styles = StyleSheet.create({
       marginTop: 4
     },
     android: {
-      color: "#33383D",
-      fontSize: 16,
+      color: "grey",
+      fontSize: 17,
       marginTop: 10
     },
     web: {
-      color: "#33383D",
-      fontSize: 16,
+      color: "grey",
+      fontSize: 17,
       marginTop: 10
     }
   })
